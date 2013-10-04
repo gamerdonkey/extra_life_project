@@ -1,0 +1,1 @@
+CREATE TABLE tallied_votes (key text, title text, amount real)
