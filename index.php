@@ -56,10 +56,16 @@
    </head>
    <body>
       <div id="container" style="width: 1000px; margin: 0 auto;">
-         <div class="page-title" style="width: 100%; text-align: center; font-size: 24pt;">
+         <div id="page_title" style="width: 100%; text-align: center; font-size: 24pt;">
             <p sytle="">
                Zach's Extra Life Extra Challenge
             </p>
+         </div>
+         <div id="page_body">
+            <p class="secion_header">
+               
+            </p>
+            
          </div>
          <div id="chart_div" style="width: 100%; height: 250px;"></div>
       </div>
